@@ -14,6 +14,9 @@ https://ropsten.etherscan.io/
 4. Faucet
 https://faucet.ropsten.be/
 
-2. Example#1 - SimpleStorage
+5. Example#1 - SimpleStorage
 https://github.com/banksathapon/Ethereum-101/blob/master/SimpleStorage.sol
+
+6. Example#2 - Greeter
+https://github.com/banksathapon/Ethereum-101/blob/master/Greeter.sol
 
